@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="development_name">Meticulus Dezvoltare</string>
-<string name="extras_section_name">Suplimentar</string>
-<string name="app_name">Meticulus Părți</string>
-<string name="kernel_header">Nucleu</string>
-<string name="otg_title">USB Gazdă modul</string>
-<string name="sensorex_title">Experimental senzori </string>
-<string name="glove_title">Mănușă modul</string>
-<string name="dt2w_title">Dubla Atingere La Trezi</string>
+<string name="development_name">Meticulus Development</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Setari Meticulus</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Host</string>
+<string name="sensorex_title">Senzori experimentali</string>
+<string name="glove_title">Mod manusa</string>
+<string name="dt2w_title">Dubla atingere pentru trezirea device-ului.</string>
 <string name="network_header">Reţea</string>
-<string name="sim2_title">Sim Card Slot 2 </string>
-<string name="workaround_header">Muncă În jurul</string>
-<string name="google_enc_title">Utilizare Google H264 </string>
+<string name="sim2_title">Slot SIM 2</string>
+<string name="workaround_header">Solutii</string>
+<string name="google_enc_title">Utilizare codec Google H264</string>
 <string name="action_settings">Setări</string>
-<string name="dt2w_desc">Permite tu la trezi dispozitiv de dubla transvazare pe ecran.</string>
-<string name="otg_desc">Permite tu la conectați USB dispozitive. Cand activat alte dispozitiv legate de USB funcţii, astfel de la fel de ADB și MTP, voi nu fi disponibil pana cand acest este invalid sau dispozitiv este repornită. Nu toate USB dispozitive voi muncă.</string>
-<string name="glove_desc">Crește sensibilitate de atingere ecran asa de atinge poate sa fi înregistrat in timp ce purtare mănuși.</string>
-<string name="sim2_desc">Activează al doilea sim card slot. Acest ar trebui să nu fi activat dacă nu Acolo este A sim card în al doilea slot. (Necesită Reboot!)</string>
-<string name="google_enc_desc">Acest lucrări în jurul probleme cu Snapchat instagram și alte video înregistrare aplicații. utilizări Google avc codificator in schimb de hw avc codificator. Tu Mai nevoie la repornire aplicaţia sau repornire dispozitiv inainte de acest cadru ia efect. Acest Mai de asemenea cauza niste video înregistrare aplicaţii nu la muncă.</string>
-<string name="sensorex_desc">Test experimental giroscop senzor! (Necesită Reboot)</string>
+<string name="dt2w_desc">Permite trezirea ecranului prin dubla apasare.</string>
+<string name="otg_desc">Permite conectarea dispozitivelor USB de stocare in masa. Cand este activat , alte functii legate de modul USB ( ADB sau MTP ) nu vor fi disponibile pana la restartarea telefonului sau dezactivarea acestei functii. Nu toate dispozitivele USB vor functiona.</string>
+<string name="glove_desc">Creste sensibilitatea touch-screenului astfel incat puteti utiliza telefonul in timp ce purtati manusi. </string>
+<string name="sim2_desc">Activează al doilea slot de SIM. Nu activati aceasta optiune daca nu aveti al doilea card SIM in telefon.(Necesită repornirea telefonului!)</string>
+<string name="google_enc_desc">O solutie alternativa pentru problemele de inregistrare video intalnite in Snapchat , Instagram si alte aplicatii de inregistrare video. Acest mod foloseste codecul HW AVC Encoder in locul codecului Google AVC Encoder.</string>
+<string name="sensorex_desc">Solutie experimentala pentru senzorul giroscop.(Necesită repornirea telefonului!)</string>
 <string name="sponsors">Sponsori</string>
-<string name="not_supported">Nu sprijinit de acest dispozitiv...</string>
-<string name="sponsor_thank_you">Vă mulțumim tu toate pentru tu a sustine!</string>
+<string name="not_supported">Nu este disponibil pentru acest dispozitiv...</string>
+<string name="sponsor_thank_you">Va multumesc tuturor pentru sustinere!</string>
 </resources>
